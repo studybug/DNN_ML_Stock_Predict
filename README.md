@@ -1,9 +1,6 @@
 # DNN_ML_Stock_Predict
 
 ## Table of Contents
-
-> If your `README` has a lot of info, section headers might be nice.
-
 - [Description](#Description)
 - [Features](#features)
 - [Installation](#installation)
@@ -11,7 +8,7 @@
 - [Support](#support)
 
 ## Description
-> The project features creation, analysis, and conclusion of three Deep Neural Network (DNN) Machine Learning techniques: MLClassifier with sklearn, DNNClassifier with TensorFlow, and DNNRegressor with TensorFlow.  The project was created for the purposes of a Udacity Data Science Captsone. 
+> The project features creation, analysis, and conclusion of three Deep Neural Network (DNN) Machine Learning techniques: MLClassifier with sklearn, DNNClassifier with TensorFlow, and DNNRegressor with TensorFlow.  The three models/techniques are analysed to see which performs the best and worst.  The project was created for the purpose of a capstone project with Udacity's "Data Science Nano-Degree" course. 
 
 ## Features
 - website article on project:
@@ -32,6 +29,11 @@ $ pip3 install yfinance
 ```javascript
 $ pip3 install pandas-datareader
 ```
+- make sure to "$ pip install --user install tensorflow==1.3.0":
+```javascript
+$ $ pip install --user install tensorflow==1.3.0
+```
+- if working on your own computer with jupyter notebook, a "virtualenv" may need to be created for TensorFlow to work
 
 ## References
 - "Python for Finance" by Yves Hilpisch
