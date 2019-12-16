@@ -14,7 +14,7 @@
 - website article on project:
 - file: data_ML = raw data in cleaned form
 - file: Project Part I, analysis and prep.ipynb = prep of raw data
-- file: Project Part II, DNN ML and output (1).ipynb = use of raw data prep to make models and analysis
+- file: Project Part II, DNN ML and output.ipynb = use of raw data prep to make models and analysis
 
 ## Installation
 To preform operations certain packages are required:
